@@ -1,4 +1,4 @@
-package com.bridgelabz.addressbook.model;
+package com.bridgelabz.addressbookapplication.model;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;
